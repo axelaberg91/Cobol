@@ -1,0 +1,10 @@
+{
+  "name": "marias-mainframe",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Swedish COBOL puzzle game for Maria, built for mobile browsers and GitHub Pages.",
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "test": "node --test tests/*.test.cjs"
+  }
+}

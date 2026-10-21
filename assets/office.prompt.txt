@@ -1,0 +1,6 @@
+Generated using the built-in imagegen tool, October 21, 2026.
+Output: office.png
+Original illustration © 2026 axelaberg91, CC BY-NC 4.0.
+
+Final prompt:
+Use case: illustration-story. A landscape 3:2 editorial illustration for the hero of a Swedish retro COBOL browser game for Maria. Warm nostalgic sophisticated 1980s Swedish industrial office, close view of a beige CRT computer and keyboard on a warmly lit oak desk, CRT on right side angled slightly to left with soft green phosphor code-like lines but no legible text, a large folded stack of green-and-cream continuous tractor feed paper at left, a small cream coffee cup, floppy disks, a few pencils, muted industrial wall poster showing a tire silhouette and dark olive office background. Warm amber desk light from upper left. Tactile painterly pixel art, detailed low-resolution pixels with rich shade steps, beautiful restrained palette of forest green, olive, moss, warm cream and honey brown. Cozy lived-in affectionate office memory, real working tools, no person, no readable text, no logos, no modern devices, no pink or purple neon, no glossy 3D. Fill the frame, focus on computer and paper. Visually polished pixel illustration, flat framed image, no phone screen, no UI, no border.
