@@ -3,6 +3,8 @@
 A personal, Swedish-language COBOL puzzle game for Maria. Designed for mobile
 browsers and static hosting on GitHub Pages. No build step or runtime dependencies.
 
+[Play Maria's Mainframe](https://axelaberg91.github.io/Cobol/)
+
 ## Play locally
 
 Install Node.js, then run `npm start` from the repository root. Open
@@ -35,11 +37,11 @@ The interface uses Google Fonts with local system fallbacks. The game remains
 playable if the font service is unavailable. Font loading contacts Google;
 answers and progress are not sent there. The game is not an offline-installed app.
 
-## GitHub Pages, after local approval
+## GitHub Pages
 
-All site paths are relative and work under `/Cobol/`. No deployment has been
-performed as part of the local first version. Once approved, publish the files
-to `main` and select **Settings → Pages → Deploy from a branch → main / (root)**.
+All site paths are relative and work under `/Cobol/`. Publication to `main` was
+approved on October 21, 2026. Pages uses **Deploy from a branch → main / (root)**.
+Future pushes to `main` automatically rebuild the public site.
 The `.nojekyll` file disables unnecessary Jekyll processing.
 
 ## Historical scope
