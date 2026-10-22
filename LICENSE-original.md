@@ -16,5 +16,12 @@ separate commercial permissions.
 The repository's pre-existing `LICENSE` file contains GPL-3.0 and is preserved
 unchanged. This notice does not relicense inherited or third-party material.
 Historical facts and linked source documents are not claimed as original assets.
+The historical Trelleborg emblem and wordmark depicted in `assets/office-v2.png`
+remain third-party marks belonging to Trelleborg. They are excluded from the
+original-contributions license. Logo-history reference and credit: Trelleborg AB,
+Annual Report 2008, printed page 117 (PDF page 121),
+https://www.annualreports.com/HostedData/AnnualReportArchive/t/trelleborg-ab_2008.pdf.
+The illustrated 1986 calendar is fictional, not a reproduction of an actual
+company calendar or a claim of endorsement.
 Google Fonts, if loaded, remain under their respective upstream font licenses;
 they are not relicensed by this notice.

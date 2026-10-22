@@ -1,0 +1,23 @@
+Generated using the built-in imagegen editing tool, October 22, 2026.
+Output: office-v2.png. Previous office.png preserved.
+
+Input 1: assets/office.png, original office illustration.
+Input 2: a rendered logo-history page from Trelleborg AB Annual Report 2008,
+printed page 117 (PDF page 121). Reference only, not included in the repository.
+Source: https://www.annualreports.com/HostedData/AnnualReportArchive/t/trelleborg-ab_2008.pdf
+Historical emblem/wordmark credit: Trelleborg AB. Third-party marks excluded
+from the original illustration's CC BY-NC 4.0 license. The office and 1986
+calendar are fictional; not an authentic TP-data office or company calendar.
+
+Final edit prompt:
+Use case: precise-object-edit / style-transfer.
+Edit target: image 1, the existing pixel-art office illustration used in Maria's Swedish mobile COBOL game.
+Historical logo reference only: image 2 is a page from Trelleborg's annual report. Use ONLY the old single inverted-outline-triangle with a T inside, visible in the historical advertisements and the large black emblem on the LEFT. Do NOT use the modern multiple-triangle gold logo at right or below. Do NOT copy any other content or page layout from reference 2.
+
+Primary request: Make the office feel unmistakably like an ordinary cozy Swedish industrial data office around 1986, and include the period Trelleborg company emblem naturally in the scene.
+Preserve: landscape 3:2 composition, tactile detailed pixel-art rendering, green phosphor terminal, beige bulky CRT and keyboard on the right, continuous-feed green-striped paper and printer output to the left, warm moss/olive/cream/honey colors, quiet affectionate nostalgia. Keep the scene unoccupied.
+Changes: Replace the dramatic giant tire poster with a cream wall calendar for 1986 containing a clearly drawn old Trelleborg emblem: ONE downward pointing black outlined triangle containing a black T, with the exact word "TRELLEBORG" underneath. Position this calendar prominently on the wall just above and slightly left of the CRT, in the central 60 percent of the image so it remains visible in mobile and portrait crops. It is a company calendar in the imagined office, not an official product endorsement.
+Make the furniture more everyday Swedish 1980s: light gray laminate desktop with blond wood edge and beige metal office cabinets; a simple beige corded push-button telephone, Swedish-style ring binders and a cork pinboard with a small note "FIKA 14.30", a paper desk planner and a modest white-and-brown-striped coffee cup with a cinnamon bun on a small saucer. Restrained recognizable details, not a cluttered still life. Swap heavy dramatic golden American sunset for soft cool Nordic daylight from a side window, balanced with a warm amber desk lamp. Outside the window, a subtle glimpse of a red-brick Swedish office or apartment building and a birch tree. Muted beige walls, practical office textiles. Binder spines may read "LÖNER" and "LAGER". Keep terminal code lines as green short code-like text with no modern UI.
+The overall impression is a real Swedish 1980s workday, cozy but practical, a memory of an office rather than a gaming room or coffee shop.
+Avoid modern Trelleborg chevrons/multiple triangles, US flags or skyline, modern laptops, modern gaming peripherals, glossy 3D, photorealism, neon cyberpunk, new decorative typography across the scene, people.
+All major forms must remain legible when displayed at mobile width. No borders or interface.
