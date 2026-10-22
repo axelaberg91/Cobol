@@ -81,7 +81,7 @@
     const finished = progress.solved.length === puzzles.length;
     const started = progress.solved.length > 0 || progress.visits.length > 0;
     main.innerHTML = `<section class="hero">
-      <div class="hero-title">${headerLabel("ETT ÄVENTYR TILL DIG, MARIA")}<h1>MARIAS<br>STORDATOR<span class="cursor" aria-hidden="true">_</span></h1><div class="hero-company"><span></span>TP–DATA<span></span></div></div>
+      <div class="hero-title"><h1>MARIAS<br>STORDATOR<span class="cursor" aria-hidden="true">_</span></h1><div class="hero-company"><span></span>TP–DATA<span></span></div></div>
       <div class="hero-copy"><h2>Välkommen tillbaka, Maria.</h2>
         <p class="hero-lead">Kaffet är varmt. Dagens körningar väntar.</p>
         <p class="hero-description">Från TP-data till Trenton. En liten resa tillbaka till koden, kontoret och allt det där som sitter kvar i fingrarna.</p>
@@ -91,7 +91,7 @@
       </div>
       <div class="hero-visual"><div class="photo-corner corner-top"></div><div class="photo-corner corner-bottom"></div><img class="office-art" src="assets/office.png" alt="Illustrerat retrokontor med en grön terminal, traktorpapper och kaffe." width="1536" height="1024"><div class="visual-label"><span><span class="tiny-square"></span> TERMINAL 01</span><span>OPERATÖR: MARIA</span></div><span class="desk-sticker">En körning i taget.<br><strong>Precis som förr.</strong></span></div>
     </section>
-    <section class="journey-section" aria-labelledby="journey-title"><div class="section-heading"><div>${headerLabel("DIN RESA GENOM KODEN")}<h2 id="journey-title">Tre kapitel. Ett välbekant språk.</h2></div><button class="text-button" data-action="chapters">Visa arbetskön <span aria-hidden="true">→</span></button></div><div class="chapter-grid">${chapters.map(chapterCard).join("")}</div></section>
+    <section class="journey-section" aria-label="Kapitel"><div class="section-heading"><div>${headerLabel("DIN RESA GENOM KODEN")}</div><button class="text-button" data-action="chapters">Visa arbetskön <span aria-hidden="true">→</span></button></div><div class="chapter-grid">${chapters.map(chapterCard).join("")}</div></section>
     <section class="archive-section"><article class="archive-paper"><div class="archive-year">1985</div><div><span class="archive-kicker">EN SIDA UR ARKIVET</span><h2>TP-data och datautbildningen.</h2><p>Personer från TP-Data medverkade som lärare vid datautbildning på PLM:s koncernkontor.</p><a href="https://lagen.nu/sou/1985:50" target="_blank" rel="noopener noreferrer">SOU 1985:50, bilaga 1, s. 185 ↗</a></div></article><div class="archive-aside"><span aria-hidden="true">☕</span><h2>COBOL, kaffe<br>och kontrollsummor.</h2><p>En körning i taget.<br>Precis som förr.</p></div></section>
     <section class="note-strip"><span class="note-symbol" aria-hidden="true">✳</span><p><strong>Lite rostig? Det hör till.</strong> ADB-handboken finns alltid nära. Ledtrådar kostar ingenting, och du kan ta en paus precis när du vill.</p><button data-action="handbook" class="text-button">Öppna handboken ${arrow}</button></section>`;
   }
