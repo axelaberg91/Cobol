@@ -17,7 +17,8 @@ The repository's pre-existing `LICENSE` file contains GPL-3.0 and is preserved
 unchanged. This notice does not relicense inherited or third-party material.
 Historical facts and linked source documents are not claimed as original assets.
 The historical Trelleborg emblem and wordmark depicted in `assets/office-v2.png`
-and `assets/office-v3.png`
+and its subsequent office illustration versions (`assets/office-v3.png`,
+`assets/office-v4.png`)
 remain third-party marks belonging to Trelleborg. They are excluded from the
 original-contributions license. Logo-history reference and credit: Trelleborg AB,
 Annual Report 2008, printed page 117 (PDF page 121),
