@@ -82,9 +82,10 @@ and [ISO 1989:1985/Amd 1:1992](https://www.iso.org/standard/6725.html).
 
 The office illustration was generated with the built-in imagegen tool. Its
 [final prompt](assets/office.prompt.txt) is kept with the asset for reproducibility.
-The current [Swedish 1980s office illustration](assets/office-v2.png) uses the
+The current [Swedish 1980s office illustration](assets/office-v3.png) uses the
 older single-triangle Trelleborg emblem as a historical reference; see its
-[edit prompt and source credit](assets/office-v2.prompt.txt). The calendar and
+[edit prompt and source credit](assets/office-v2.prompt.txt). The desk support
+was corrected in a [follow-up edit](assets/office-v3.prompt.txt). The calendar and
 office are fictional. Trelleborg's marks retain their own rights and are not
 included in the CC BY-NC license for the original illustration.
 

@@ -1,0 +1,10 @@
+Generated using the built-in imagegen editing tool, October 22, 2026.
+Output: office-v3.png. Edit target: assets/office-v2.png, preserved.
+Historical emblem source, third-party credit and fictional-scene caveats:
+see office-v2.prompt.txt. Trelleborg marks retain their own rights.
+
+Final edit prompt:
+Use case: precise-object-edit.
+Edit target: the supplied cozy pixel-art Swedish 1986 office illustration.
+Primary request: Fix the desk geometry so the entire beige computer, its CRT base and especially the whole keyboard rest securely ON the desk. Currently the keyboard hangs over the near edge. Extend the light gray laminate desktop and blond wooden front edge toward the viewer and toward the right as needed, or move the keyboard back slightly, so there is a clearly visible strip of desktop in front of the keyboard and support under every part. The desk front edge must be below/in front of all computer equipment in perspective. Natural contact shadows under keyboard and CRT. No floating or overhanging equipment.
+Preserve the existing image as closely as possible: same 3:2 landscape framing, detailed pixel-art texture, green screen, warm light, Swedish office, Trelleborg historical single triangle T emblem and TRELLEBORG 1986 wall calendar, window, lamp, printer paper, telephone, striped cup, cinnamon bun and planner. Only adjust the desk/computer support geometry in the foreground. No new text or objects.
